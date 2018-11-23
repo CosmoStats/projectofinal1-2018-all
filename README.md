@@ -10,4 +10,6 @@ Webpage reference: http://supernovae.in2p3.fr/sdss_snls_jla/ReadMe.html
 TODO: 
  - Start a notebook to read and plot the data from http://supernovae.in2p3.fr/sdss_snls_jla/jla_likelihood_v4.tgz
  - In the same notebook define the relevant functions to describe such data
- - Make the MCMC analysis 
+ - Make the MCMC analysis
+
+Participants 
