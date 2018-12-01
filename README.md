@@ -1,4 +1,4 @@
-Repository for the final project of the course-part1 
+ Repository for the final project of the course-part1 
 
 Supernova constraints to Omega matter
 
